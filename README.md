@@ -1,2 +1,2 @@
 # SmartHome_2025_
-I'm build my first basic web model.
+I'm build my 1st project for SmartHome.
